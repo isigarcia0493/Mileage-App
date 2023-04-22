@@ -16,7 +16,7 @@ function HomeScreen({ navigation }){
   return(
     <View style={styles.container}>
       <View style={styles.welcomeContainer}>
-        <Text style={styles.welcome}>WelCome!</Text>
+        <Text style={styles.welcome}>Welcome!</Text>
       </View>
       <View style={styles.imageContainer}>
         <Image source={mainImage} style={styles.image} />
