@@ -4,10 +4,10 @@
     "slug": "Mileage",
     "version": "1.0.0",
     "orientation": "portrait",
-    "icon": "./assets/icon.png",
+    "icon": "./assets/mileageIcon.png",
     "userInterfaceStyle": "light",
     "splash": {
-      "image": "./assets/splash.png",
+      "image": "./assets/Car-mileage.png",
       "resizeMode": "contain",
       "backgroundColor": "#ffffff"
     },
